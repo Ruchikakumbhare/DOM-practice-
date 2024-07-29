@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: bisque;
+    background-color: black;
+}
+
+ul  {
+  
+   background-color: burlywood;
+   
+}
+
+
+.class{
+
+    align-items: center;
+
+}
+
+.remove {
+    color: darkolivegreen;
+    background-color: beige;
+}
+
+.down {
+    color: darkolivegreen;
+    background-color: beige;
+}
+
+.up {
+    color: darkolivegreen;
+    background-color: blanchedalmond;
+}
+
+input{
+    background-color:lavender;
+    color:black;
+}

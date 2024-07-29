@@ -1,0 +1,22 @@
+h1 {
+    color : white;
+    background: #000;
+}
+
+#nam {
+     color: brown;
+}
+
+p {
+    background-color: yellow;
+}
+
+.aa {
+    color:gray;
+    background-color:lightsalmon ;
+}
+
+.bb { 
+    color: gray;
+    background-color:lavender;
+}
