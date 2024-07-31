@@ -53,6 +53,3 @@ ele.classList.toggle('three')
 ele.classList.toggle('three')
 console.log(ele.className)
 
-ele.classList.toggle('two')
-ele.classList.toggle('two')
-console.log(ele.className)
