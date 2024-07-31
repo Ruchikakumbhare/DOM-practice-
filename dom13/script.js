@@ -61,32 +61,3 @@ for(let i = 0 ; i < allist.length ; i++){
 
 
 
-
-// for(let i = 0 ; i < allLiElement.length ;i++){
-// //     //console.log(i)
-// //     console.log(allLiElement[i].textContent)
-// //     allLiElement[i].style.color = "red"
-// // }
-
-// ulList.addEventListener('click',function(){
-//     for(let i = 0 ; i < allLiElement.length ;i++){
-//     //console.log(i)
-//     console.log(allLiElement[i].textContent)
-//     allLiElement[i].style.color = "red"
-// }
-// })
-
-
-
-// // //program 2
-// // for(let i = 0 ; i < allLiElements.length ; i++){
-
-// //     if(i % 2 == 0){
-// //         allLiElements[i].style.color = "pink"
-// //     }
-// //     else {
-// //         allLiElements[i].style.color = "green"
-// //     }
-
-// // }
-
