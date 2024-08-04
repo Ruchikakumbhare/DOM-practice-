@@ -1,5 +1,5 @@
 
-
+// object literal
 let info = {
     fname : 'lakshay',
     lname : "sharma",
@@ -14,7 +14,7 @@ let info1 = {
     city : 'mumbai'
 }
 console.log(info1)
-
+//.......................................
 class human{
     fn = undefined
     ln =undefined
